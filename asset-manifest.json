@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/reactdebrief2ans/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/reactdebrief2ans/static/js/main.b0cab3b6.chunk.js",
+    "main.js.map": "/reactdebrief2ans/static/js/main.b0cab3b6.chunk.js.map",
+    "runtime-main.js": "/reactdebrief2ans/static/js/runtime-main.aa28e0fc.js",
+    "runtime-main.js.map": "/reactdebrief2ans/static/js/runtime-main.aa28e0fc.js.map",
+    "static/js/2.f91da1be.chunk.js": "/reactdebrief2ans/static/js/2.f91da1be.chunk.js",
+    "static/js/2.f91da1be.chunk.js.map": "/reactdebrief2ans/static/js/2.f91da1be.chunk.js.map",
+    "index.html": "/reactdebrief2ans/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/reactdebrief2ans/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.f91da1be.chunk.js.LICENSE.txt": "/reactdebrief2ans/static/js/2.f91da1be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aa28e0fc.js",
+    "static/js/2.f91da1be.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.b0cab3b6.chunk.js"
+  ]
+}
